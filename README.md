@@ -1,1 +1,1 @@
-# credit-department
+# Yandex.Practicum
